@@ -7,6 +7,7 @@ A collection of Python web scraping projects from learning attempts to working s
 | # | Difficulty | Project | Target | Tools | Status |
 |---|------------|---------|--------|-------|--------|
 | 01 | Easy | [World Population Scraper](./easy/world_population_web_scraper) | worldometers.info | requests, BeautifulSoup, pandas | Completed, raw + clean CSV |
+| 02 | Easy | [Books Scraper](./easy/books_web_scraper) | books.toscrape.com | requests, BeautifulSoup, tqdm | Completed, JSON |
 
 ## My Skills
 
