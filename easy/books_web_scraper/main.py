@@ -75,7 +75,7 @@ def scrape_listing_page(page_num):
 
 def main():
     all_books = []
-    total_pages = 2
+    total_pages = 50
 
     for page in range(1, total_pages + 1):
         print(f"Scraping page {page}/{total_pages}...", flush=True)
