@@ -10,6 +10,7 @@ A collection of Python web scraping projects from learning attempts to working s
 | 02 | Easy | [Books Scraper](./easy/books_web_scraper) | books.toscrape.com | requests, BeautifulSoup, tqdm | Completed, JSON |
 | 03 | Easy | [Quotes Scroll Scraper](./easy/quotes_scroll_web_scraper) | quotes.toscrape.com/scroll | playwright, tqdm | Completed, XML |
 | 04 | Medium | [Unsplash Images Scraper](./medium/images_web_scraper) | unsplash.com | playwright, fake-useragent | Completed, CSV |
+| 05 | Hard | [Amazon Laptop Scraper](./hard/amazon_web_scraper) | amazon.com | playwright, BrightData | Completed, CSV |
 
 ## My Skills
 
